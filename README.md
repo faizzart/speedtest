@@ -1,8 +1,9 @@
 Auto installer speedtest
 
-    auto installer speedtest
-    wajib konek ke internet ketika penginstalan.
-    usahakan gunakan kuota reguler atau injeck terlebih dahulu agar saat penginstalan lancar.
-    paste perintah dibawah ke terminal stb openwrt anda.
+ •   auto installer speedtest by Vito H.S.
+ •   wajib konek ke internet ketika penginstalan.
+ •   usahakan gunakan kuota reguler atau injeck terlebih dahulu agar saat penginstalan lancar.
+ •   paste perintah dibawah ke terminal stb openwrt anda.
+
 
 wget --no-check-certificate "https://raw.githubusercontent.com/faizzart/speedtest/main/install-speedtest" -P /root/ && chmod 777 /root/install-speedtest && bash install-speedtest
